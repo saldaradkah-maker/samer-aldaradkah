@@ -1,0 +1,12 @@
+[project]
+name = "canteen-inventory-android"
+version = "1.0.0"
+description = "نظام الجرد والمبيعات وتوزيع البضاعة - مقهى الجندي والفروع"
+requires-python = ">=3.10"
+dependencies = [
+    "flet"
+]
+
+[tool.flet]
+org = "com.aljundi.canteen"
+product = "مقهى الجندي والفروع"
